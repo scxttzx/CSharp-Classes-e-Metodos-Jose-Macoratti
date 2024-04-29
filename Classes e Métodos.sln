@@ -65,23 +65,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prático5", "Prático5", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercícioT_U_V", "ExercícioT_U_V\ExercícioT_U_V.csproj", "{405C86DD-2D3F-420E-BE2C-92F99DAE0C30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosEstaticos", "MetodosEstaticos\MetodosEstaticos.csproj", "{350A60B8-F6E7-4C40-B86A-AAB47E3D5935}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosEstaticos", "MetodosEstaticos\MetodosEstaticos.csproj", "{350A60B8-F6E7-4C40-B86A-AAB47E3D5935}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamposEstaticos", "CamposEstaticos\CamposEstaticos.csproj", "{D8BECC23-A1F6-4775-A46E-2B851DACB3C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamposEstaticos", "CamposEstaticos\CamposEstaticos.csproj", "{D8BECC23-A1F6-4775-A46E-2B851DACB3C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamposEstáticosExercicio", "CamposEstáticosExercicio\CamposEstáticosExercicio.csproj", "{CAB0564C-5CD8-428B-8207-35243B6B2246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamposEstáticosExercicio", "CamposEstáticosExercicio\CamposEstáticosExercicio.csproj", "{CAB0564C-5CD8-428B-8207-35243B6B2246}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prático6", "Prático6", "{D5B051F8-E224-4CC9-A62A-42392E86F604}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosX_Y_Z", "ExerciciosX_Y_Z\ExerciciosX_Y_Z.csproj", "{32195C5A-A7FB-4ED7-B14B-4B9760FB99FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosX_Y_Z", "ExerciciosX_Y_Z\ExerciciosX_Y_Z.csproj", "{32195C5A-A7FB-4ED7-B14B-4B9760FB99FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutorEstático", "ConstrutorEstático\ConstrutorEstático.csproj", "{299E0D90-2106-4643-9EB8-403A57EC0561}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstrutorEstático", "ConstrutorEstático\ConstrutorEstático.csproj", "{299E0D90-2106-4643-9EB8-403A57EC0561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPraticoPropriedades", "ExercicioPraticoPropriedades\ExercicioPraticoPropriedades.csproj", "{EE2D0DC5-756F-424D-B2A0-659CC25D62B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioPraticoPropriedades", "ExercicioPraticoPropriedades\ExercicioPraticoPropriedades.csproj", "{EE2D0DC5-756F-424D-B2A0-659CC25D62B6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prático7", "Prático7", "{70198381-7808-4B99-9797-47513EB59C70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExericiociosW_W1_W2", "ExericiociosW_W1_W2\ExericiociosW_W1_W2.csproj", "{4EDE9EEC-30CD-484A-8A5C-F87902410272}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExericiociosW_W1_W2", "ExericiociosW_W1_W2\ExericiociosW_W1_W2.csproj", "{4EDE9EEC-30CD-484A-8A5C-F87902410272}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structs", "Structs\Structs.csproj", "{1C8B2C34-1576-43BE-B9E2-1BFB8C0E6370}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prático8", "Prático8", "{266258B7-991E-46DC-973D-9C8494E7FE77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosW3_W4_W5_W6_W7_W8", "ExerciciosW3_W4_W5_W6_W7_W8\ExerciciosW3_W4_W5_W6_W7_W8.csproj", "{5D391717-8200-4B02-B091-09F73D9AB76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{3FB7E4AD-2CEB-42FC-AA5F-6420102FAA16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prático9", "Prático9", "{7F02B35C-9A1E-49FC-9F44-371087E702A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio9", "Exercicio9\Exercicio9.csproj", "{5775EE48-A755-4395-83BD-F9AFD246130D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -217,6 +229,22 @@ Global
 		{4EDE9EEC-30CD-484A-8A5C-F87902410272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EDE9EEC-30CD-484A-8A5C-F87902410272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EDE9EEC-30CD-484A-8A5C-F87902410272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8B2C34-1576-43BE-B9E2-1BFB8C0E6370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8B2C34-1576-43BE-B9E2-1BFB8C0E6370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8B2C34-1576-43BE-B9E2-1BFB8C0E6370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8B2C34-1576-43BE-B9E2-1BFB8C0E6370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D391717-8200-4B02-B091-09F73D9AB76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D391717-8200-4B02-B091-09F73D9AB76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D391717-8200-4B02-B091-09F73D9AB76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D391717-8200-4B02-B091-09F73D9AB76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB7E4AD-2CEB-42FC-AA5F-6420102FAA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB7E4AD-2CEB-42FC-AA5F-6420102FAA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB7E4AD-2CEB-42FC-AA5F-6420102FAA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB7E4AD-2CEB-42FC-AA5F-6420102FAA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5775EE48-A755-4395-83BD-F9AFD246130D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5775EE48-A755-4395-83BD-F9AFD246130D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5775EE48-A755-4395-83BD-F9AFD246130D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5775EE48-A755-4395-83BD-F9AFD246130D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -239,6 +267,10 @@ Global
 		{32195C5A-A7FB-4ED7-B14B-4B9760FB99FB} = {D5B051F8-E224-4CC9-A62A-42392E86F604}
 		{70198381-7808-4B99-9797-47513EB59C70} = {D76A11B1-5CE2-4A4D-8EEE-4DD46C2250D7}
 		{4EDE9EEC-30CD-484A-8A5C-F87902410272} = {70198381-7808-4B99-9797-47513EB59C70}
+		{266258B7-991E-46DC-973D-9C8494E7FE77} = {D76A11B1-5CE2-4A4D-8EEE-4DD46C2250D7}
+		{5D391717-8200-4B02-B091-09F73D9AB76E} = {266258B7-991E-46DC-973D-9C8494E7FE77}
+		{7F02B35C-9A1E-49FC-9F44-371087E702A5} = {D76A11B1-5CE2-4A4D-8EEE-4DD46C2250D7}
+		{5775EE48-A755-4395-83BD-F9AFD246130D} = {7F02B35C-9A1E-49FC-9F44-371087E702A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9CE04174-CFB3-4DB2-8DA0-F1F9AE81D0AF}
