@@ -50,7 +50,7 @@ public class Carro
 
     public void ExibirInfo()
     {
-        Console.WriteLine($"Modelo: {Modelo}\nMontadora: {Montadora}\nMarca: {Marca}\nCor: {(Cores)Cor}\nAno: {Ano}\nPotencia: {Potencia}\nValor do Ipva: {ValorIpva}");
+        Console.WriteLine($"Modelo: {Modelo}\nMontadora: {Montadora}\nMarca: {Marca}\nCor: {(Cores)Cor}\nAno: {Ano}\nPotencia: {Potencia}\n");
     }
 
 }
