@@ -1,1 +1,1 @@
-﻿Console.WriteLine("## Partial Class");
+﻿Console.WriteLine("## Partial C");

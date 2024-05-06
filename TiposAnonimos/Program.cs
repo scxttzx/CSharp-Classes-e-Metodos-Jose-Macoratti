@@ -20,8 +20,8 @@ Console.WriteLine(aluno.Endereco.Cidade);
 
 var aluno1 = new[]
 {
-    new { Nome = "João", Idade = 43, Email = "jairo@email.com" }
-    new { Nome = "Maria", Idade = 3, Email = "asd@email.com" }
+    new { Nome = "João", Idade = 43, Email = "jairo@email.com" },
+    new { Nome = "Maria", Idade = 3, Email = "asd@email.com" },
     new { Nome = "José", Idade = 21, Email = "tt@email.com" }
    
 };
